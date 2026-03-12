@@ -13,10 +13,9 @@ elif operation == '*':
     print("Multiplication is :",num1*num2)
     
 elif operation == '/':
-    if num1 < num2 or num1 == 0:
+    if  num2 == 0:
         print("Division not possible")
-        print("plz enter first number is larger as second number.....")
-    else:
+        
         print("Division is :",num1/num2)
         
 else:
