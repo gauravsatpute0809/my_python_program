@@ -1,5 +1,4 @@
-
-        
+      
 num = int(input("Enter a Number: "))
 
 counteven = 0

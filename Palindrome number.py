@@ -10,6 +10,6 @@ while num > 0:
 print("Reversed number:", reverse)
 
 if original == reverse:
-    print("Palindrome Numb"")
+    print("Palindrome Numb")
 else:
     print("Not a Palindrome")
